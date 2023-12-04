@@ -1,0 +1,15 @@
+.topnav {
+    overflow: visible;
+    background: linear-gradient(90deg, rgba(145,227,216,1) 20%, rgb(210, 10, 224) 49%, rgba(92,225,252,1) 100%);
+    
+    width: 100%;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 5;
+    z-index: 989;
+    text-align: center;
+    font-family: century;
+  color: black;
+  }
+
